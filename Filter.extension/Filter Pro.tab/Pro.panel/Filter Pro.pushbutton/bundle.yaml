@@ -1,0 +1,12 @@
+# Filter Pro - pushbutton bundle definition
+# https://pyrevitlabs.notion.site/Bundles-c1ba5aa25a5c47829c8a8f95555c7e7f
+
+title: Filter Pro
+tooltip: >
+  Pick elements in the model, then build a filter from their Category,
+  Family, Level or any parameter (including schedule fields). Use it to
+  select matching elements anywhere in the active view, or to create a
+  native Revit View Filter with color overrides.
+author: Filter Pro Add-in
+min_revit_version: 2025
+highlight: new
