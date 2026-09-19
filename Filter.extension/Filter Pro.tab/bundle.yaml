@@ -1,0 +1,4 @@
+# Ribbon TAB definition.
+# The folder is named "Filter Pro.tab"; this title is what Revit actually
+# shows on the ribbon, so the two need not match.
+title: Filter Pro

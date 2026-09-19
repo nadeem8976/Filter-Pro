@@ -1,0 +1,3 @@
+# Ribbon PANEL definition.
+# Without this, pyRevit would label the panel from its folder name ("Pro").
+title: Filter Tools

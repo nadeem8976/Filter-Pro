@@ -1,0 +1,31 @@
+# --- Python / IronPython -----------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- pyRevit caches ----------------------------------------------------------
+*.pyrevitcache
+pyrevit_config.ini
+
+# --- Revit working files -----------------------------------------------------
+# Backups, journals and local models must never be committed: they are large,
+# binary and machine-specific.
+*.rvt
+*.rte
+*.rfa
+*.rft
+*.rvt.*
+*.0001.rvt
+*.slog
+*.dat
+Backup/
+*_backup/
+
+# --- OS / editor -------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
